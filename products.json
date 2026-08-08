@@ -1,36 +1,12 @@
 {
   "products": [
     {
-      "id": "speedramp-engine",
-      "name": "CarVinci — Speedramp Engine",
+      "id": "stabilizing-engine",
+      "name": "CarVinci — Stabilizing Engine",
       "tagline": "The Better Speedramp Graph Editor for DaVinci Resolve.",
       "url": "https://carvinci-store.myshopify.com/products/speedramp-engine",
       "icon": "<svg viewBox=\"0 0 256 256\"><path d=\"M58 10C37 10 10 37 10 58L10 198C10 219 37 246 58 246L198 246C219 246 246 219 246 198L246 58C246 37 219 10 198 10Z\" fill=\"#1B1B20\" stroke=\"#3A3A45\" stroke-width=\"2\"/><path d=\"M62 193.5C141 193.5 114 61.5 193 61.5\" fill=\"none\" stroke=\"#5B7CFF\" stroke-width=\"17\" stroke-linecap=\"round\"/><path d=\"M47.25 178.75h29.5v29.5h-29.5z\" fill=\"#DFE4F0\"/><path d=\"M178.25 46.75h29.5v29.5h-29.5z\" fill=\"#DFE4F0\"/></svg>",
-      "data_dir": "Speedramp",
-      "active": true
-    },
-    {
-      "id": "shakes-engine",
-      "name": "CarVinci — Shakes Engine",
-      "tagline": "Camera shake presets that survive a speed ramp.",
-      "url": "https://carvinci.com",
-      "icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 10h2v4H3zM7 7h2v10H7zM11 4h2v16h-2zM15 7h2v10h-2zM19 10h2v4h-2z\"/></svg>",
-      "active": true
-    },
-    {
-      "id": "stabilizing-engine",
-      "name": "CarVinci — Stabilizing Engine",
-      "tagline": "One-click stabilization tuned for rolling car shots.",
-      "url": "https://carvinci.com",
-      "icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M11 2h2v3h-2zM11 19h2v3h-2zM2 11h3v2H2zM19 11h3v2h-3zM12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10zm0 2a3 3 0 1 1 0 6 3 3 0 0 1 0-6z\"/></svg>",
-      "active": true
-    },
-    {
-      "id": "effects-engine",
-      "name": "CarVinci — Effects Engine",
-      "tagline": "The automotive look library, built for Resolve.",
-      "url": "https://carvinci.com",
-      "icon": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 2l1.8 5.2L19 9l-5.2 1.8L12 16l-1.8-5.2L5 9l5.2-1.8zM19 14l.9 2.6 2.6.9-2.6.9-.9 2.6-.9-2.6-2.6-.9 2.6-.9z\"/></svg>",
+      "data_dir": "Stabilizing",
       "active": true
     }
   ]
