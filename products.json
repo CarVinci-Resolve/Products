@@ -8,6 +8,6 @@
       "icon": "<svg viewBox=\"0 0 256 256\"><path d=\"M58 10C37 10 10 37 10 58L10 198C10 219 37 246 58 246L198 246C219 246 246 219 246 198L246 58C246 37 219 10 198 10Z\" fill=\"#1B1B20\" stroke=\"#3A3A45\" stroke-width=\"2\"/><path d=\"M62 193.5C141 193.5 114 61.5 193 61.5\" fill=\"none\" stroke=\"#5B7CFF\" stroke-width=\"17\" stroke-linecap=\"round\"/><path d=\"M47.25 178.75h29.5v29.5h-29.5z\" fill=\"#DFE4F0\"/><path d=\"M178.25 46.75h29.5v29.5h-29.5z\" fill=\"#DFE4F0\"/></svg>",
       "data_dir": "Stabilizing",
       "active": true
-    }
+    },
   ]
 }
